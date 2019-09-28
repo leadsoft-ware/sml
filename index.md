@@ -6,7 +6,7 @@
 </em>
 <script>
   function Download() {
-  window.open("about:blank","","")
+  window.open("https://github.com/leadsoft-ware/SMLRelease/releases/download/InsiderPreview/Insider_Preview_beta1.exe","","")
 }
 </script>
 <a href="javascript:Download()">前往下载</a>
